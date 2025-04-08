@@ -1,4 +1,9 @@
-## Hi there 👋
+<a href="https://twitter.com/dims/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zachgoldberg&show_icons=true" />
+</a>
+<a href="https://twitter.com/dims/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachgoldberg&hide=html,ruby" />
+</a>
 
 <!--
 **ZachGoldberg/ZachGoldberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
