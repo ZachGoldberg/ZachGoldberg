@@ -1,13 +1,9 @@
-<a href="https://twitter.com/dims/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zachgoldberg&show_icons=true" />
-</a>
-<a href="https://twitter.com/dims/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachgoldberg&hide=html,ruby" />
-</a>
+Author of the Startup CTO's Handbook, availalbe on [GitHub](https://github.com/ZachGoldberg/Startup-CTO-Handbook/) [Amazon](https://www.amazon.com/dp/1955811563) and [Audible](https://www.audible.com/pd/B0CXB5YZL2).
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=zachgoldberg&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachgoldberg&hide=html,ruby" />
 
 <!--
-**ZachGoldberg/ZachGoldberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
